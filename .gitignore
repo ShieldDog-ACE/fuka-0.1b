@@ -1,0 +1,4 @@
+*.safetensors
+*.zst
+.screenshots/
+__pycache__/

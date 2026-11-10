@@ -1,0 +1,6 @@
+{
+  "kind": "merged",
+  "base": "fuka_persona (persona_v2/epoch4)",
+  "adapter": "fuka_linux_lora (linux_v2_replay/epoch2)",
+  "note": "adapter 已并进权重；需要隔离版请用 persona/ + linux_lora/"
+}
